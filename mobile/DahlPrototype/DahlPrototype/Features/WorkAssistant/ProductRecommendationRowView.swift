@@ -2,6 +2,7 @@ import SwiftUI
 
 struct ProductRecommendationRowView: View {
     let product: ProductRecommendation
+    @Environment(ShopStore.self) private var shopStore
 
     private var formattedPrice: String {
         let value = Double(product.price) / 100.0
@@ -22,7 +23,7 @@ struct ProductRecommendationRowView: View {
                 Text(formattedPrice)
                     .font(.subheadline)
                 Button("Order") {
-                    // Order flow — to be implemented in E-Commerce feature
+                    shopStore.addToCart(product)
                 }
                 .font(.caption)
             }
