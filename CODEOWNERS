@@ -1,0 +1,12 @@
+# Product
+/pm/ @product-manager
+
+# Design
+/design/ @designer
+
+# Engineering
+/mobile/ @mobile-team
+/docs/ @tech-lead
+
+# Shared
+/tasks.md @everyone
