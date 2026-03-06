@@ -5,9 +5,9 @@ struct CartView: View {
     @Environment(\.dismiss) private var dismiss
     @State private var isPlacingOrder = false
 
-    private var formattedTotal: String {
-        let value = Double(store.cartTotal) / 100.0
-        return String(format: "%.0f SEK", value)
+    private var itemCountText: String {
+        let count = store.cartItemCount
+        return "\(count) item\(count == 1 ? "" : "s")"
     }
 
     var body: some View {
@@ -42,10 +42,10 @@ struct CartView: View {
 
             Section {
                 HStack {
-                    Text("Total")
+                    Text("Items")
                         .font(.headline)
                     Spacer()
-                    Text(formattedTotal)
+                    Text(itemCountText)
                         .font(.headline)
                 }
             }
@@ -95,31 +95,21 @@ private struct CartItemRowView: View {
     let item: CartItem
     let onQuantityChange: (Int) -> Void
 
-    private func formatted(_ ore: Int) -> String {
-        String(format: "%.0f SEK", Double(ore) / 100.0)
-    }
-
     var body: some View {
         VStack(alignment: .leading, spacing: 6) {
             Text(item.product.name)
                 .font(.body)
-            Text("SKU: \(item.product.sku)")
+            Text("Art. nr: \(item.product.articleNumber)")
                 .font(.caption)
                 .foregroundStyle(.secondary)
-            HStack {
-                Stepper(
-                    "\(item.quantity) × \(formatted(item.product.price))",
-                    value: Binding(
-                        get: { item.quantity },
-                        set: { onQuantityChange($0) }
-                    ),
-                    in: 0...999
-                )
-                Spacer()
-                Text(formatted(item.totalPrice))
-                    .font(.subheadline)
-                    .bold()
-            }
+            Stepper(
+                "Qty: \(item.quantity)",
+                value: Binding(
+                    get: { item.quantity },
+                    set: { onQuantityChange($0) }
+                ),
+                in: 0...999
+            )
         }
         .padding(.vertical, 2)
     }

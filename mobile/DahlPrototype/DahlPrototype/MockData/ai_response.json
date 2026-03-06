@@ -2,18 +2,36 @@
   "text": "This sounds like the jaw profile on your press tool doesn't match the fitting series. The most common cause is using a standard jaw on a fitting that requires a specific profile, like Geberit Mapress or Viega Propress.\n\nFirst, check the marking on the fitting — it should indicate the required jaw type. If the jaw is correct, inspect it for wear; a worn jaw will slip on smaller diameters.\n\nIf you need a replacement jaw set or a compatible fitting, see below.",
   "products": [
     {
-      "id": "prod_001",
-      "name": "22mm Press Jaw Set (Mapress)",
-      "sku": "VVS-4421-B",
-      "price": 89000,
-      "currency": "SEK"
+      "id": "4816004",
+      "name": "KOPPARRÖR 22X1,0 MM 2,5 METER HÅRDA ALTECH",
+      "articleNumber": "4816004",
+      "brands": [
+        { "brand": "ALTECH", "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-9PClqxy1sW-rJbPQvoSZp.jpeg" }
+      ],
+      "attributes": [
+        { "attributeName": "articleNumber", "attributeLabel": "Art. nr.", "attributeValue": "4816004", "sort": 0 },
+        { "attributeName": "Utvändig rördiameter", "attributeLabel": "Utvändig rördiameter", "attributeValue": "22 mm", "sort": 1 }
+      ],
+      "images": [
+        { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012695380-gfVU13vI2c-dYBgbjWyiy.jpeg", "assetType": "Bild 1" }
+      ],
+      "discontinued": false
     },
     {
-      "id": "prod_002",
-      "name": "22mm Copper Press Elbow 90°",
-      "sku": "VVS-2290-C",
-      "price": 4800,
-      "currency": "SEK"
+      "id": "4816009",
+      "name": "KOPPARRÖR 15X1,0 MM 3 METER HÅRDA ALTECH",
+      "articleNumber": "4816009",
+      "brands": [
+        { "brand": "ALTECH", "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-9PClqxy1sW-rJbPQvoSZp.jpeg" }
+      ],
+      "attributes": [
+        { "attributeName": "articleNumber", "attributeLabel": "Art. nr.", "attributeValue": "4816009", "sort": 0 },
+        { "attributeName": "Utvändig rördiameter", "attributeLabel": "Utvändig rördiameter", "attributeValue": "15 mm", "sort": 1 }
+      ],
+      "images": [
+        { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012695380-gfVU13vI2c-dYBgbjWyiy.jpeg", "assetType": "Bild 1" }
+      ],
+      "discontinued": false
     }
   ]
 }

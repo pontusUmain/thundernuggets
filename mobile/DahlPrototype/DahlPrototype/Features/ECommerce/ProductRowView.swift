@@ -6,20 +6,19 @@ struct ProductRowView: View {
 
     private var quantity: Int { store.quantity(for: product) }
 
-    private var formattedPrice: String {
-        String(format: "%.0f %@", Double(product.price) / 100.0, product.currency)
-    }
-
     var body: some View {
         HStack {
             VStack(alignment: .leading, spacing: 3) {
                 Text(product.name)
                     .font(.body)
-                Text("SKU: \(product.sku)")
+                Text("Art. nr: \(product.articleNumber)")
                     .font(.caption)
                     .foregroundStyle(.secondary)
-                Text(formattedPrice)
-                    .font(.subheadline)
+                if !product.brandName.isEmpty {
+                    Text(product.brandName)
+                        .font(.caption2)
+                        .foregroundStyle(.secondary)
+                }
             }
             Spacer()
             if quantity == 0 {

@@ -9,7 +9,7 @@ struct ECommerceView: View {
         if searchText.isEmpty { return store.allProducts }
         return store.allProducts.filter {
             $0.name.localizedCaseInsensitiveContains(searchText) ||
-            $0.sku.localizedCaseInsensitiveContains(searchText)
+            $0.articleNumber.localizedCaseInsensitiveContains(searchText)
         }
     }
 
@@ -29,7 +29,7 @@ struct ECommerceView: View {
                 }
             }
             .navigationTitle("Shop")
-            .searchable(text: $searchText, prompt: "Search by name or SKU")
+            .searchable(text: $searchText, prompt: "Search by name or article number")
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {
                     Button {

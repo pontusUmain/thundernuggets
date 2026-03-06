@@ -11,5 +11,5 @@ struct CartItem: Identifiable {
         self.quantity = quantity
     }
 
-    var totalPrice: Int { product.price * quantity }
+    var totalPrice: Int { 0 }
 }
