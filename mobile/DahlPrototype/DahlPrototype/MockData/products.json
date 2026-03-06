@@ -1,72 +1,283 @@
 [
   {
-    "id": "prod_001",
-    "name": "22mm Press Jaw Set (Mapress)",
-    "sku": "VVS-4421-B",
-    "price": 89000,
-    "currency": "SEK"
+    "id": "4816004",
+    "productId": "Product2G_1590827365690227",
+    "name": "KOPPARRÖR 22X1,0 MM 2,5 METER HÅRDA ALTECH",
+    "articleNumber": "4816004",
+    "variantSlug": "kopparror-22x1-0-mm-2-5-meter-harda-altech-4816004",
+    "productSlug": "koppar-harda-2-5-meter-enligt-en-1057-r290-product2g-1590827365690227",
+    "brands": [
+      {
+        "brand": "ALTECH",
+        "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-9PClqxy1sW-rJbPQvoSZp.jpeg"
+      }
+    ],
+    "ean": "7332508109859",
+    "attributes": [
+      { "attributeName": "articleNumber", "attributeLabel": "Art. nr.", "attributeValue": "4816004", "sort": 0 },
+      { "attributeName": "Utvändig rördiameter", "attributeLabel": "Utvändig rördiameter", "attributeValue": "22 mm", "sort": 1 },
+      { "attributeName": "Väggtjocklek/Godstjocklek", "attributeLabel": "Väggtjocklek/Godstjocklek", "attributeValue": "1 mm", "sort": 2 },
+      { "attributeName": "Max. tryck", "attributeLabel": "Max. tryck", "attributeValue": "54 bar", "sort": 21 }
+    ],
+    "images": [
+      { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012695380-gfVU13vI2c-dYBgbjWyiy.jpeg", "assetType": "Bild 1" }
+    ],
+    "stockedAt": ["101", "105", "106", "107", "108"],
+    "filterTags": ["express-pickup", "express-delivery"],
+    "discontinued": false,
+    "categoryIds": ["dahlstrukturen-10121612-ec011533"],
+    "etimClass": "EC011533 - Kopparrör"
   },
   {
-    "id": "prod_002",
-    "name": "22mm Copper Press Elbow 90°",
-    "sku": "VVS-2290-C",
-    "price": 4800,
-    "currency": "SEK"
+    "id": "4816021",
+    "productId": "Product2G_1590827365690230",
+    "name": "KOPPARRÖR 22X1,0 MM 5 METER HÅRDA ALTECH",
+    "articleNumber": "4816021",
+    "variantSlug": "kopparror-22x1-0-mm-5-meter-harda-altech-4816021",
+    "productSlug": "koppar-harda-5-meter-enligt-en-1057-r290-product2g-1590827365690230",
+    "brands": [
+      {
+        "brand": "ALTECH",
+        "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-9PClqxy1sW-rJbPQvoSZp.jpeg"
+      }
+    ],
+    "ean": "7332508110022",
+    "attributes": [
+      { "attributeName": "articleNumber", "attributeLabel": "Art. nr.", "attributeValue": "4816021", "sort": 0 },
+      { "attributeName": "Utvändig rördiameter", "attributeLabel": "Utvändig rördiameter", "attributeValue": "22 mm", "sort": 1 },
+      { "attributeName": "Väggtjocklek/Godstjocklek", "attributeLabel": "Väggtjocklek/Godstjocklek", "attributeValue": "1 mm", "sort": 2 },
+      { "attributeName": "Max. tryck", "attributeLabel": "Max. tryck", "attributeValue": "99 bar", "sort": 21 }
+    ],
+    "images": [
+      { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012695380-gfVU13vI2c-dYBgbjWyiy.jpeg", "assetType": "Bild 1" }
+    ],
+    "stockedAt": ["105", "106", "107", "108", "109"],
+    "filterTags": ["express-pickup", "express-delivery"],
+    "discontinued": false,
+    "categoryIds": ["dahlstrukturen-10121612-ec011533"],
+    "etimClass": "EC011533 - Kopparrör"
   },
   {
-    "id": "prod_003",
-    "name": "15mm Isolation Valve",
-    "sku": "VVS-1500-IV",
-    "price": 12500,
-    "currency": "SEK"
+    "id": "4816009",
+    "productId": "Product2G_1590827365690228",
+    "name": "KOPPARRÖR 15X1,0 MM 3 METER HÅRDA ALTECH",
+    "articleNumber": "4816009",
+    "variantSlug": "kopparror-15x1-0-mm-3-meter-harda-altech-4816009",
+    "productSlug": "koppar-harda-3-meter-enligt-en-1057-r290-product2g-1590827365690228",
+    "brands": [
+      {
+        "brand": "ALTECH",
+        "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-9PClqxy1sW-rJbPQvoSZp.jpeg"
+      }
+    ],
+    "ean": "7332508109903",
+    "attributes": [
+      { "attributeName": "articleNumber", "attributeLabel": "Art. nr.", "attributeValue": "4816009", "sort": 0 },
+      { "attributeName": "Utvändig rördiameter", "attributeLabel": "Utvändig rördiameter", "attributeValue": "15 mm", "sort": 1 },
+      { "attributeName": "Väggtjocklek/Godstjocklek", "attributeLabel": "Väggtjocklek/Godstjocklek", "attributeValue": "1 mm", "sort": 2 },
+      { "attributeName": "Max. tryck", "attributeLabel": "Max. tryck", "attributeValue": "82 bar", "sort": 21 }
+    ],
+    "images": [
+      { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012695380-gfVU13vI2c-dYBgbjWyiy.jpeg", "assetType": "Bild 1" }
+    ],
+    "stockedAt": [],
+    "filterTags": ["express-pickup", "express-delivery"],
+    "discontinued": false,
+    "categoryIds": ["dahlstrukturen-10121612-ec011533"],
+    "etimClass": "EC011533 - Kopparrör"
   },
   {
-    "id": "prod_004",
-    "name": "Flexible Hose 600mm",
-    "sku": "VVS-6000-FH",
-    "price": 8900,
-    "currency": "SEK"
+    "id": "4816022",
+    "productId": "Product2G_1590827365690229",
+    "name": "KOPPARRÖR 22X1,5 MM TJOCKVÄGGIGA 5 METER HÅRDA ALTECH",
+    "articleNumber": "4816022",
+    "variantSlug": "kopparror-22x1-5-mm-tjockvaggiga-5-meter-harda-altech-4816022",
+    "productSlug": "koppar-harda-5-meter-tjockvaggiga-enligt-en-1057-r290-product2g-1590827365690229",
+    "brands": [
+      {
+        "brand": "ALTECH",
+        "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-9PClqxy1sW-rJbPQvoSZp.jpeg"
+      }
+    ],
+    "ean": "7332508110039",
+    "attributes": [
+      { "attributeName": "articleNumber", "attributeLabel": "Art. nr.", "attributeValue": "4816022", "sort": 0 },
+      { "attributeName": "Utvändig rördiameter", "attributeLabel": "Utvändig rördiameter", "attributeValue": "22 mm", "sort": 1 },
+      { "attributeName": "Väggtjocklek/Godstjocklek", "attributeLabel": "Väggtjocklek/Godstjocklek", "attributeValue": "1,5 mm", "sort": 2 },
+      { "attributeName": "Max. tryck", "attributeLabel": "Max. tryck", "attributeValue": "51 bar", "sort": 21 }
+    ],
+    "images": [
+      { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012695380-gfVU13vI2c-dYBgbjWyiy.jpeg", "assetType": "Bild 1" }
+    ],
+    "stockedAt": ["130", "141", "146", "153", "177"],
+    "filterTags": ["express-pickup", "express-delivery"],
+    "discontinued": false,
+    "categoryIds": ["dahlstrukturen-10121612-ec011533"],
+    "etimClass": "EC011533 - Kopparrör"
   },
   {
-    "id": "prod_005",
-    "name": "P-trap 32mm",
-    "sku": "VVS-3200-PT",
-    "price": 5600,
-    "currency": "SEK"
+    "id": "1752153",
+    "productId": "VVS_186131",
+    "name": "MEDICINKOPPARRÖR 15X1,0 MM 5 METER HÅRDA",
+    "articleNumber": "1752153",
+    "variantSlug": "medicinkopparror-15x1-0-mm-5-meter-harda-1752153",
+    "productSlug": "medicinska-kopparror-typ-amon-medicin-for-medicinska-gasledningar-5-meter-vvs-186131",
+    "brands": [],
+    "ean": "",
+    "attributes": [
+      { "attributeName": "articleNumber", "attributeLabel": "Art. nr.", "attributeValue": "1752153", "sort": 0 },
+      { "attributeName": "Utvändig rördiameter", "attributeLabel": "Utvändig rördiameter", "attributeValue": "15 mm", "sort": 1 },
+      { "attributeName": "Väggtjocklek/Godstjocklek", "attributeLabel": "Väggtjocklek/Godstjocklek", "attributeValue": "1 mm", "sort": 2 }
+    ],
+    "images": [
+      { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000100163334-U5YyGqQJE8vI0oG8hI1BN.jpeg", "assetType": "Bild 1" }
+    ],
+    "stockedAt": [],
+    "filterTags": ["express-pickup", "express-delivery"],
+    "discontinued": false,
+    "categoryIds": ["dahlstrukturen-10121612-ec011533"],
+    "etimClass": "EC011533 - Kopparrör"
   },
   {
-    "id": "prod_006",
-    "name": "Sealant Tape 12m",
-    "sku": "VVS-TAPE-12",
-    "price": 1200,
-    "currency": "SEK"
+    "id": "8235436",
+    "productId": "VVS_1330072295438",
+    "name": "TVÄTTSTÄLLSBLANDARE 9000E II KROM FMM",
+    "articleNumber": "8235436",
+    "variantSlug": "tvattstallsblandare-9000e-ii-krom-fmm-8235436",
+    "productSlug": "tvattstallsblandare-9000e-ii-vvs-1330072295438",
+    "brands": [
+      {
+        "brand": "FMM",
+        "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-4itA0NIcy8MZR-zoEG6_x.jpeg"
+      }
+    ],
+    "ean": "7391887232718",
+    "attributes": [
+      { "attributeName": "articleNumber", "attributeLabel": "Art. nr.", "attributeValue": "8235436", "sort": 0 },
+      { "attributeName": "Anslutning tillopp", "attributeLabel": "Anslutning tillopp", "attributeValue": "Slang med slätända", "sort": 8 },
+      { "attributeName": "Max. flöde (vid 300 kPa)", "attributeLabel": "Max. flöde (vid 300 kPa)", "attributeValue": "6,1 l/min", "sort": 14 },
+      { "attributeName": "Kallstartfunktion", "attributeLabel": "Kallstartfunktion", "attributeValue": "Ja", "sort": 15 }
+    ],
+    "images": [
+      { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012897258-6hCe56-r0kat7tpL01ZrR.jpeg", "assetType": "Bild 1" },
+      { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012897267-84cxqI1dWbcQS6bVsh7t0.jpeg", "assetType": "Miljöbild" }
+    ],
+    "stockedAt": ["101", "105", "106", "107", "108"],
+    "filterTags": ["express-pickup", "express-delivery"],
+    "discontinued": false,
+    "categoryIds": ["dahlstrukturen-40144212-ec011328"],
+    "etimClass": "EC011328 - Tvättställsblandare"
   },
   {
-    "id": "prod_007",
-    "name": "Expansion Vessel 18L",
-    "sku": "VVS-EV-18",
-    "price": 145000,
-    "currency": "SEK"
+    "id": "8278957",
+    "productId": "Product2G_1590827365903127",
+    "name": "TVÄTTSTÄLLSBLANDARE 9000XE 3/8\" 4,8 L/MIN KROM FMM",
+    "articleNumber": "8278957",
+    "variantSlug": "tvattstallsblandare-9000xe-3-8-4-8-l-min-krom-fmm-8278957",
+    "productSlug": "tvattstallsblandare-9000xe-blyfri-product2g-1590827365903127",
+    "brands": [
+      {
+        "brand": "FMM",
+        "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-4itA0NIcy8MZR-zoEG6_x.jpeg"
+      }
+    ],
+    "ean": "7391887262524",
+    "attributes": [
+      { "attributeName": "articleNumber", "attributeLabel": "Art. nr.", "attributeValue": "8278957", "sort": 0 },
+      { "attributeName": "Ytbehandling", "attributeLabel": "Ytbehandling", "attributeValue": "Polerad/Putsad", "sort": 6 }
+    ],
+    "images": [
+      { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D100001273634-ts9vHmVn1rEuq8Kr158pb.jpeg", "assetType": "Bild 1" }
+    ],
+    "stockedAt": ["101", "106", "107", "108", "109"],
+    "filterTags": ["express-pickup", "express-delivery"],
+    "discontinued": false,
+    "categoryIds": ["dahlstrukturen-40144212-ec011328"],
+    "etimClass": "EC011328 - Tvättställsblandare"
   },
   {
-    "id": "prod_008",
-    "name": "Safety Relief Valve 3 bar",
-    "sku": "VVS-SRV-3B",
-    "price": 32000,
-    "currency": "SEK"
+    "id": "8277605",
+    "productId": "VVS_1471868938699_1471868938698",
+    "name": "TVÄTTSTÄLLSBLANDARE ESTETIC KROM UTAN BOTTENVENTIL GBG",
+    "articleNumber": "8277605",
+    "variantSlug": "tvattstallsblandare-estetic-krom-utan-bottenventil-gbg-8277605",
+    "productSlug": "tvattstallsblandare-estetic-lagbly-vvs-1471868938699-1471868938698",
+    "brands": [
+      {
+        "brand": "GUSTAVSBERG",
+        "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-bqeFwM93lV4j42XCGKe75.jpeg"
+      }
+    ],
+    "ean": "7393792230391",
+    "attributes": [
+      { "attributeName": "articleNumber", "attributeLabel": "Art. nr.", "attributeValue": "8277605", "sort": 0 },
+      { "attributeName": "Basfärg", "attributeLabel": "Basfärg", "attributeValue": "Krom", "sort": 3 },
+      { "attributeName": "Kallstartfunktion", "attributeLabel": "Kallstartfunktion", "attributeValue": "Nej", "sort": 15 },
+      { "attributeName": "Typ av pip", "attributeLabel": "Typ av pip", "attributeValue": "Gjuten", "sort": 24 }
+    ],
+    "images": [
+      { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000128971628-b4l58mZnTuH2khokGDgUj.jpeg", "assetType": "Bild 1" }
+    ],
+    "stockedAt": ["133", "153"],
+    "filterTags": ["express-pickup", "express-delivery"],
+    "discontinued": false,
+    "categoryIds": ["dahlstrukturen-40144212-ec011328"],
+    "etimClass": "EC011328 - Tvättställsblandare"
   },
   {
-    "id": "prod_009",
-    "name": "28mm Copper Press Straight Coupling",
-    "sku": "VVS-2800-SC",
-    "price": 3900,
-    "currency": "SEK"
+    "id": "8278500",
+    "productId": "Product2G_1590827364545898",
+    "name": "TVÄTTSTÄLLSBLANDARE NYA NAUTIC KALLSTART ENERGIKLASS A, GBG",
+    "articleNumber": "8278500",
+    "variantSlug": "tvattstallsblandare-nya-nautic-kallstart-energiklass-a-gbg-8278500",
+    "productSlug": "tvattstallsblandare-nya-nautic-energiklass-a-product2g-1590827364545898",
+    "brands": [
+      {
+        "brand": "GUSTAVSBERG",
+        "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-bqeFwM93lV4j42XCGKe75.jpeg"
+      }
+    ],
+    "ean": "7393792234788",
+    "attributes": [
+      { "attributeName": "articleNumber", "attributeLabel": "Art. nr.", "attributeValue": "8278500", "sort": 0 },
+      { "attributeName": "Max. flöde (vid 300 kPa)", "attributeLabel": "Max. flöde (vid 300 kPa)", "attributeValue": "4,44 l/min", "sort": 14 },
+      { "attributeName": "Kallstartfunktion", "attributeLabel": "Kallstartfunktion", "attributeValue": "Ja", "sort": 15 }
+    ],
+    "images": [
+      { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012563234-DFm2C1i0Y7Z_rZo4XpiRP.jpeg", "assetType": "Bild 1" }
+    ],
+    "stockedAt": ["101", "105", "106", "107", "108"],
+    "filterTags": ["express-pickup", "express-delivery"],
+    "discontinued": false,
+    "categoryIds": ["dahlstrukturen-40144212-ec011328"],
+    "etimClass": "EC011328 - Tvättställsblandare"
   },
   {
-    "id": "prod_010",
-    "name": "Drain Valve 15mm",
-    "sku": "VVS-1500-DV",
-    "price": 9800,
-    "currency": "SEK"
+    "id": "8235543",
+    "productId": "VVS_1416572345977",
+    "name": "TVÄTTSTÄLLSBLANDARE SILJAN KROM FMM",
+    "articleNumber": "8235543",
+    "variantSlug": "tvattstallsblandare-siljan-krom-fmm-8235543",
+    "productSlug": "tvattstallsblandare-siljan-vvs-1416572345977",
+    "brands": [
+      {
+        "brand": "FMM",
+        "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-4itA0NIcy8MZR-zoEG6_x.jpeg"
+      }
+    ],
+    "ean": "7391887236778",
+    "attributes": [
+      { "attributeName": "articleNumber", "attributeLabel": "Art. nr.", "attributeValue": "8235543", "sort": 0 },
+      { "attributeName": "Med bottenventil", "attributeLabel": "Med bottenventil", "attributeValue": "Nej", "sort": 35 }
+    ],
+    "images": [
+      { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012897445-5MX0Z7d2lXo1_WmoE8Ih9.jpeg", "assetType": "Bild 1" },
+      { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012897441-KbGurm511znToUQJxO03-.jpeg", "assetType": "Miljöbild" }
+    ],
+    "stockedAt": ["101", "105", "106", "107", "108"],
+    "filterTags": ["express-pickup", "express-delivery"],
+    "discontinued": false,
+    "categoryIds": ["dahlstrukturen-40144212-ec011328"],
+    "etimClass": "EC011328 - Tvättställsblandare"
   }
 ]

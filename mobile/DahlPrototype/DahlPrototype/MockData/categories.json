@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "ror",
+    "name": "Rör",
+    "url": "https://dahl.se/kategorier/ror",
+    "subcategories": [
+      { "slug": "avlopp-inomhus", "name": "Avlopp inomhus" },
+      { "slug": "avlopp-utomhus", "name": "Avlopp utomhus" },
+      { "slug": "dranering-och-kabelskydd", "name": "Dränering och kabelskydd" },
+      { "slug": "vatten-varme-och-gas", "name": "Vatten, värme och gas" }
+    ]
+  },
+  {
+    "slug": "rordelar-och-kopplingar",
+    "name": "Rördelar och kopplingar",
+    "url": "https://dahl.se/kategorier/rordelar-och-kopplingar",
+    "subcategories": [
+      { "slug": "gangat", "name": "Gängat" },
+      { "slug": "press", "name": "Press" },
+      { "slug": "elektrosvets-och-stumsvets", "name": "Elektrosvets och stumsvets" }
+    ]
+  },
+  {
+    "slug": "sanitet-och-blandare",
+    "name": "Sanitet och blandare",
+    "url": "https://dahl.se/kategorier/sanitet-och-blandare",
+    "subcategories": [
+      { "slug": "tvattstallsblandare", "name": "Tvättställsblandare" },
+      { "slug": "koksblandare", "name": "Köksblandare" },
+      { "slug": "duschdorr", "name": "Duschdörr" }
+    ]
+  },
+  {
+    "slug": "vatten-varme-och-kyla",
+    "name": "Vatten, värme och kyla",
+    "url": "https://dahl.se/kategorier/vatten-varme-och-kyla",
+    "subcategories": [
+      { "slug": "kulventiler", "name": "Kulventiler" },
+      { "slug": "ackumulatortank", "name": "Ackumulatortank" },
+      { "slug": "varmvattenberedare", "name": "Varmvattenberedare" }
+    ]
+  },
+  {
+    "slug": "montage-och-utrustning",
+    "name": "Montage och utrustning",
+    "url": "https://dahl.se/kategorier/montage-och-utrustning",
+    "subcategories": [
+      { "slug": "knivar-och-saxar", "name": "Knivar och saxar" },
+      { "slug": "rorklammer", "name": "Rörklammer" },
+      { "slug": "slip-och-skrapverktyg", "name": "Slip- och skrapverktyg" }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "makesSense": true,
+  "spellingSuggestions": { "count": 0, "items": [] },
+  "relatedQueries": { "count": 0, "items": [] },
+  "results": {
+    "count": 313,
+    "facets": [
+      {
+        "name": "categoryLeafs",
+        "type": "distinct",
+        "items": [
+          { "item": "Rör|Kopparrör", "count": 164, "selected": false },
+          { "item": "Rördelar och kopplingar|Koppar", "count": 17, "selected": false },
+          { "item": "Rördelar och kopplingar|Rördel med 2 anslutningar", "count": 851, "selected": false },
+          { "item": "Sanitet och blandare|Tvättställsblandare", "count": 4, "selected": false },
+          { "item": "Vatten, värme och kyla|Kulventiler", "count": 6, "selected": false }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "type": "Product",
+        "id": "Product2G_1590827365690227",
+        "attributes": [
+          {
+            "name": "variant",
+            "type": "string",
+            "values": [
+              "{\"id\":\"4816004\",\"productId\":\"Product2G_1590827365690227\",\"name\":\"KOPPARRÖR 22X1,0 MM 2,5 METER HÅRDA ALTECH\",\"articleNumber\":\"4816004\",\"variantSlug\":\"kopparror-22x1-0-mm-2-5-meter-harda-altech-4816004\",\"productSlug\":\"koppar-harda-2-5-meter-enligt-en-1057-r290-product2g-1590827365690227\",\"brands\":[{\"brand\":\"ALTECH\",\"assetUrl\":\"https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-9PClqxy1sW-rJbPQvoSZp.jpeg\"}],\"ean\":\"7332508109859\",\"attributes\":[{\"attributeName\":\"articleNumber\",\"attributeLabel\":\"Art. nr.\",\"attributeValue\":\"4816004\",\"sort\":0},{\"attributeName\":\"Utvändig rördiameter\",\"attributeLabel\":\"Utvändig rördiameter\",\"attributeValue\":\"22 mm\",\"sort\":1}],\"images\":[{\"assetUrl\":\"https://d1d2wjk9lgo5fo.cloudfront.net/D1000012695380-gfVU13vI2c-dYBgbjWyiy.jpeg\",\"assetType\":\"Bild 1\"}],\"discontinued\":false,\"filterTags\":[\"express-pickup\",\"express-delivery\"]}"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Product",
+        "id": "Product2G_1590827365690230",
+        "attributes": [
+          {
+            "name": "variant",
+            "type": "string",
+            "values": [
+              "{\"id\":\"4816021\",\"productId\":\"Product2G_1590827365690230\",\"name\":\"KOPPARRÖR 22X1,0 MM 5 METER HÅRDA ALTECH\",\"articleNumber\":\"4816021\",\"variantSlug\":\"kopparror-22x1-0-mm-5-meter-harda-altech-4816021\",\"productSlug\":\"koppar-harda-5-meter-enligt-en-1057-r290-product2g-1590827365690230\",\"brands\":[{\"brand\":\"ALTECH\",\"assetUrl\":\"https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-9PClqxy1sW-rJbPQvoSZp.jpeg\"}],\"ean\":\"7332508110022\",\"attributes\":[{\"attributeName\":\"articleNumber\",\"attributeLabel\":\"Art. nr.\",\"attributeValue\":\"4816021\",\"sort\":0},{\"attributeName\":\"Utvändig rördiameter\",\"attributeLabel\":\"Utvändig rördiameter\",\"attributeValue\":\"22 mm\",\"sort\":1}],\"images\":[{\"assetUrl\":\"https://d1d2wjk9lgo5fo.cloudfront.net/D1000012695380-gfVU13vI2c-dYBgbjWyiy.jpeg\",\"assetType\":\"Bild 1\"}],\"discontinued\":false,\"filterTags\":[\"express-pickup\",\"express-delivery\"]}"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Product",
+        "id": "VVS_1330072295438",
+        "attributes": [
+          {
+            "name": "variant",
+            "type": "string",
+            "values": [
+              "{\"id\":\"8235436\",\"productId\":\"VVS_1330072295438\",\"name\":\"TVÄTTSTÄLLSBLANDARE 9000E II KROM FMM\",\"articleNumber\":\"8235436\",\"variantSlug\":\"tvattstallsblandare-9000e-ii-krom-fmm-8235436\",\"productSlug\":\"tvattstallsblandare-9000e-ii-vvs-1330072295438\",\"brands\":[{\"brand\":\"FMM\",\"assetUrl\":\"https://d1d2wjk9lgo5fo.cloudfront.net/logotyp-4itA0NIcy8MZR-zoEG6_x.jpeg\"}],\"ean\":\"7391887232718\",\"attributes\":[{\"attributeName\":\"articleNumber\",\"attributeLabel\":\"Art. nr.\",\"attributeValue\":\"8235436\",\"sort\":0}],\"images\":[{\"assetUrl\":\"https://d1d2wjk9lgo5fo.cloudfront.net/D1000012897258-6hCe56-r0kat7tpL01ZrR.jpeg\",\"assetType\":\"Bild 1\"}],\"discontinued\":false,\"filterTags\":[\"express-pickup\",\"express-delivery\"]}"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relatedResults": { "count": 0, "facets": [], "items": [] },
+  "customData": { "VariantResults_TotalItems": "313" }
+}
