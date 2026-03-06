@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "name": "Koppar hårda, 2,5 meter. Enligt EN 1057-R290",
+      "sku": "VVS-4816004",
+      "price": 605,
+      "currency": "SEK",
+      "category": "Rör",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012695380-gfVU13vI2c-dYBgbjWyiy.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Markrör släta PP",
+      "sku": "VVS-2353986",
+      "price": 154.1,
+      "currency": "SEK",
+      "category": "Rör",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D100001001176839-0KKIZkTODXqXCC4I1AFVl.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Pressrör av rostfritt syrafast stål 1.4404. L=6 m. Altech",
+      "sku": "VVS-1456560",
+      "price": 620.6,
+      "currency": "SEK",
+      "category": "Rör",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D100001276828-qLZZFWKJg_XkqySPv9d18.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Svetsade rostfria rör 1.4404, Iso, Oglödgade",
+      "sku": "VVS-9147831",
+      "price": 341,
+      "currency": "SEK",
+      "category": "Rör",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000100128540-Xz6uILwQRxafX6KJaniwP.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "PP-rör Ultra Classic",
+      "sku": "VVS-2370165",
+      "price": 665,
+      "currency": "SEK",
+      "category": "Rör",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D100001001174065-F6CMv2n3gF7jvS6ri40gs.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Rörklammer gummiklädda FZB RK211 Novipro",
+      "sku": "VVS-3858196",
+      "price": 2120.8,
+      "currency": "SEK",
+      "category": "Montage och utrustning",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012768114-qUI1GbsiZvLq8Ehs33NT-.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Rörklamma dubbel, snap 40 c/c",
+      "sku": "VVS-3811405",
+      "price": 1501.5,
+      "currency": "SEK",
+      "category": "Montage och utrustning",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000100190335-T2sLiwPG-JmOL_iwL8bw0.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "VVS-kniv Hultafors",
+      "sku": "VVS-321026",
+      "price": 2443.8,
+      "currency": "SEK",
+      "category": "Montage och utrustning",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D100001001104810-LpG0flgouNRgMfsSqVwbr.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Hantverkarkniv HVK Hultafors",
+      "sku": "VVS-321021",
+      "price": 3175.1,
+      "currency": "SEK",
+      "category": "Montage och utrustning",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000100111688-OWP_47X9SsFNkUPdul7c_.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Hantverkskniv Novipro",
+      "sku": "VVS-321101",
+      "price": 3117.4,
+      "currency": "SEK",
+      "category": "Montage och utrustning",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D100001001167050-ju1K4gV--yg76pE68tjW5.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Kulventil med invändig gänga AL3605 lågbly, tappvatten",
+      "sku": "VVS-4507422",
+      "price": 10722.3,
+      "currency": "SEK",
+      "category": "Vatten, värme och kyla",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000100179727-i0vKaUWHNT_KdYlR5hNRp.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Kulventil med vred",
+      "sku": "VVS-8546955",
+      "price": 6521.9,
+      "currency": "SEK",
+      "category": "Vatten, värme och kyla",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000128971230-GIOqKykzMya6nfCNWKDpW.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Kulventil med invändig gänga AL3600",
+      "sku": "VVS-4502944",
+      "price": 11471,
+      "currency": "SEK",
+      "category": "Vatten, värme och kyla",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000100179151-wiUk178SRQwd02pih5QcZ.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Kulventil med invändig gänga och hög hals AL 4340 lågbly, tappvatten",
+      "sku": "VVS-4513540",
+      "price": 8160.8,
+      "currency": "SEK",
+      "category": "Vatten, värme och kyla",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000100178748-c-7xRB7KOnSARm2QUYpdg.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Kulventil med klämringskopplingar AL3613 lågbly, tappvatten",
+      "sku": "VVS-4513958",
+      "price": 9156.2,
+      "currency": "SEK",
+      "category": "Vatten, värme och kyla",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000100178855-TN_X4AXxYQRAbOjG2suZt.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "WC-stol Spira 6260, Rimfree, S-lås",
+      "sku": "VVS-7811034",
+      "price": 2143.4,
+      "currency": "SEK",
+      "category": "Sanitet och blandare",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000128984158-EsB2PXMRP7Cx-RgMYM_KB.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "WC-fixtur Sigma SAWA 112cm",
+      "sku": "VVS-8000315",
+      "price": 4864.1,
+      "currency": "SEK",
+      "category": "Sanitet och blandare",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D100001286965-bqq9QhT3lrS5agdg60OjY.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Köksblandare 9000E II",
+      "sku": "VVS-8309081",
+      "price": 7773.4,
+      "currency": "SEK",
+      "category": "Sanitet och blandare",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000128972111-sjXPqRlsU0nDr1sJwuH4y.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Köksblandare 9000XE blyfri",
+      "sku": "VVS-8311593",
+      "price": 4351,
+      "currency": "SEK",
+      "category": "Sanitet och blandare",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D100001273660-XlPVIAa5dmbPrGi8Fr9Yg.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Köksblandare Mora Cera K5",
+      "sku": "VVS-8318197",
+      "price": 1865.8,
+      "currency": "SEK",
+      "category": "Sanitet och blandare",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D10000128972061-60pgxRc6kKvUR2aznFMu-.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Golvbrunn Oden",
+      "sku": "VVS-7113522",
+      "price": 2329.8,
+      "currency": "SEK",
+      "category": "Brunnar och avloppssystem",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012662360-Xiy3UOQiZtBQZ63BRu4VV.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Betäckning för tillsynsbrunn",
+      "sku": "VVS-112840",
+      "price": 2802.2,
+      "currency": "SEK",
+      "category": "Brunnar och avloppssystem",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D100001001121118-7UTm9QKr-0gzEuPn5Xbaj.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Fast lättviktsbetäckning A-6",
+      "sku": "VVS-7015131",
+      "price": 1643.7,
+      "currency": "SEK",
+      "category": "Brunnar och avloppssystem",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D100001001107115-fngzs03YG_YIiRkkaWfpL.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Betäckning",
+      "sku": "VVS-112842",
+      "price": 1345,
+      "currency": "SEK",
+      "category": "Brunnar och avloppssystem",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D100001264239-vR2g75xmRCnoeARGM7_mn.jpeg?w=400&h=400&fit=contain"
+    },
+    {
+      "name": "Brunnsbetäckning Kombi 150",
+      "sku": "VVS-6585040",
+      "price": 984,
+      "currency": "SEK",
+      "category": "Brunnar och avloppssystem",
+      "image": "https://d1d2wjk9lgo5fo.cloudfront.net/D100001001118962-W_VI8Tp6ayTmG3tgZZ0Ue.jpeg?w=400&h=400&fit=contain"
+    }
+  ]
+}
