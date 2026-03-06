@@ -10,14 +10,12 @@
 
 ### Project Structure
 
-Use a Swift Package-based modular architecture. Each feature or domain is its own package under `/Packages/`:
+Organise code by feature folder within a single app target:
 
-- **Models** — domain data structures and entities
-- **Network** — API client, request/response handling, offline queue
-- **DesignSystem** — design tokens, reusable UI components, theming
-- **Feature packages** — one package per major app section (Home, MyDay, ECommerce, WorkAssistant)
-
-Keep the main app target thin — it only composes packages and handles app lifecycle.
+- `Models/` — domain data structures and entities
+- `Network/` — API client, request/response handling, offline queue
+- `DesignSystem/` — design tokens, reusable UI components, theming
+- `Features/` — one subfolder per major app section (Home, MyDay, ECommerce, WorkAssistant)
 
 ### UI Paradigm
 
@@ -45,7 +43,7 @@ Use `.task` view modifiers for lifecycle-aware async work — they cancel automa
 ```swift
 // ✅ Correct
 .task {
-    await viewModel.loadProjects()
+    await store.loadProjects()
 }
 
 // ❌ Avoid
