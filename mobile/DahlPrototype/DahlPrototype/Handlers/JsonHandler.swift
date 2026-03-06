@@ -15,13 +15,17 @@ enum JsonHandlerError: LocalizedError {
 }
 
 enum JsonHandler {
-    static func load<T: Decodable>(_ filename: String, as type: T.Type = T.self) throws -> T {
+    static func load<T: Decodable>(
+        _ filename: String,
+        as type: T.Type = T.self,
+        decoder: JSONDecoder = JSONDecoder()
+    ) throws -> T {
         guard let url = Bundle.main.url(forResource: filename, withExtension: "json") else {
             throw JsonHandlerError.fileNotFound(filename)
         }
         do {
             let data = try Data(contentsOf: url)
-            return try JSONDecoder().decode(T.self, from: data)
+            return try decoder.decode(T.self, from: data)
         } catch let error as JsonHandlerError {
             throw error
         } catch {

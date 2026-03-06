@@ -1,0 +1,72 @@
+[
+  {
+    "id": "prod_001",
+    "name": "22mm Press Jaw Set (Mapress)",
+    "sku": "VVS-4421-B",
+    "price": 89000,
+    "currency": "SEK"
+  },
+  {
+    "id": "prod_002",
+    "name": "22mm Copper Press Elbow 90°",
+    "sku": "VVS-2290-C",
+    "price": 4800,
+    "currency": "SEK"
+  },
+  {
+    "id": "prod_003",
+    "name": "15mm Isolation Valve",
+    "sku": "VVS-1500-IV",
+    "price": 12500,
+    "currency": "SEK"
+  },
+  {
+    "id": "prod_004",
+    "name": "Flexible Hose 600mm",
+    "sku": "VVS-6000-FH",
+    "price": 8900,
+    "currency": "SEK"
+  },
+  {
+    "id": "prod_005",
+    "name": "P-trap 32mm",
+    "sku": "VVS-3200-PT",
+    "price": 5600,
+    "currency": "SEK"
+  },
+  {
+    "id": "prod_006",
+    "name": "Sealant Tape 12m",
+    "sku": "VVS-TAPE-12",
+    "price": 1200,
+    "currency": "SEK"
+  },
+  {
+    "id": "prod_007",
+    "name": "Expansion Vessel 18L",
+    "sku": "VVS-EV-18",
+    "price": 145000,
+    "currency": "SEK"
+  },
+  {
+    "id": "prod_008",
+    "name": "Safety Relief Valve 3 bar",
+    "sku": "VVS-SRV-3B",
+    "price": 32000,
+    "currency": "SEK"
+  },
+  {
+    "id": "prod_009",
+    "name": "28mm Copper Press Straight Coupling",
+    "sku": "VVS-2800-SC",
+    "price": 3900,
+    "currency": "SEK"
+  },
+  {
+    "id": "prod_010",
+    "name": "Drain Valve 15mm",
+    "sku": "VVS-1500-DV",
+    "price": 9800,
+    "currency": "SEK"
+  }
+]
