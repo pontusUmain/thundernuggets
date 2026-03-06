@@ -15,7 +15,8 @@
       "images": [
         { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012695380-gfVU13vI2c-dYBgbjWyiy.jpeg", "assetType": "Bild 1" }
       ],
-      "discontinued": false
+      "discontinued": false,
+      "categorySlug": "ror"
     },
     {
       "id": "4816009",
@@ -31,7 +32,8 @@
       "images": [
         { "assetUrl": "https://d1d2wjk9lgo5fo.cloudfront.net/D1000012695380-gfVU13vI2c-dYBgbjWyiy.jpeg", "assetType": "Bild 1" }
       ],
-      "discontinued": false
+      "discontinued": false,
+      "categorySlug": "ror"
     }
   ]
 }

@@ -26,7 +26,8 @@
     "filterTags": ["express-pickup", "express-delivery"],
     "discontinued": false,
     "categoryIds": ["dahlstrukturen-10121612-ec011533"],
-    "etimClass": "EC011533 - Kopparrör"
+    "etimClass": "EC011533 - Kopparrör",
+    "categorySlug": "ror"
   },
   {
     "id": "4816021",
@@ -55,7 +56,8 @@
     "filterTags": ["express-pickup", "express-delivery"],
     "discontinued": false,
     "categoryIds": ["dahlstrukturen-10121612-ec011533"],
-    "etimClass": "EC011533 - Kopparrör"
+    "etimClass": "EC011533 - Kopparrör",
+    "categorySlug": "ror"
   },
   {
     "id": "4816009",
@@ -84,7 +86,8 @@
     "filterTags": ["express-pickup", "express-delivery"],
     "discontinued": false,
     "categoryIds": ["dahlstrukturen-10121612-ec011533"],
-    "etimClass": "EC011533 - Kopparrör"
+    "etimClass": "EC011533 - Kopparrör",
+    "categorySlug": "ror"
   },
   {
     "id": "4816022",
@@ -113,7 +116,8 @@
     "filterTags": ["express-pickup", "express-delivery"],
     "discontinued": false,
     "categoryIds": ["dahlstrukturen-10121612-ec011533"],
-    "etimClass": "EC011533 - Kopparrör"
+    "etimClass": "EC011533 - Kopparrör",
+    "categorySlug": "ror"
   },
   {
     "id": "1752153",
@@ -136,7 +140,8 @@
     "filterTags": ["express-pickup", "express-delivery"],
     "discontinued": false,
     "categoryIds": ["dahlstrukturen-10121612-ec011533"],
-    "etimClass": "EC011533 - Kopparrör"
+    "etimClass": "EC011533 - Kopparrör",
+    "categorySlug": "ror"
   },
   {
     "id": "8235436",
@@ -166,7 +171,8 @@
     "filterTags": ["express-pickup", "express-delivery"],
     "discontinued": false,
     "categoryIds": ["dahlstrukturen-40144212-ec011328"],
-    "etimClass": "EC011328 - Tvättställsblandare"
+    "etimClass": "EC011328 - Tvättställsblandare",
+    "categorySlug": "sanitet-och-blandare"
   },
   {
     "id": "8278957",
@@ -193,7 +199,8 @@
     "filterTags": ["express-pickup", "express-delivery"],
     "discontinued": false,
     "categoryIds": ["dahlstrukturen-40144212-ec011328"],
-    "etimClass": "EC011328 - Tvättställsblandare"
+    "etimClass": "EC011328 - Tvättställsblandare",
+    "categorySlug": "sanitet-och-blandare"
   },
   {
     "id": "8277605",
@@ -222,7 +229,8 @@
     "filterTags": ["express-pickup", "express-delivery"],
     "discontinued": false,
     "categoryIds": ["dahlstrukturen-40144212-ec011328"],
-    "etimClass": "EC011328 - Tvättställsblandare"
+    "etimClass": "EC011328 - Tvättställsblandare",
+    "categorySlug": "sanitet-och-blandare"
   },
   {
     "id": "8278500",
@@ -250,7 +258,8 @@
     "filterTags": ["express-pickup", "express-delivery"],
     "discontinued": false,
     "categoryIds": ["dahlstrukturen-40144212-ec011328"],
-    "etimClass": "EC011328 - Tvättställsblandare"
+    "etimClass": "EC011328 - Tvättställsblandare",
+    "categorySlug": "sanitet-och-blandare"
   },
   {
     "id": "8235543",
@@ -278,6 +287,7 @@
     "filterTags": ["express-pickup", "express-delivery"],
     "discontinued": false,
     "categoryIds": ["dahlstrukturen-40144212-ec011328"],
-    "etimClass": "EC011328 - Tvättställsblandare"
+    "etimClass": "EC011328 - Tvättställsblandare",
+    "categorySlug": "sanitet-och-blandare"
   }
 ]

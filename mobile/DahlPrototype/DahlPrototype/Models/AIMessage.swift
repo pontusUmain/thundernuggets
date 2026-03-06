@@ -26,6 +26,7 @@ struct ProductRecommendation: Identifiable, Codable {
     let attributes: [ProductAttribute]
     let images: [ProductImage]
     let discontinued: Bool
+    let categorySlug: String?
 
     var brandName: String { brands.first?.brand ?? "" }
     var imageURL: URL? { images.first.flatMap { URL(string: $0.assetUrl) } }

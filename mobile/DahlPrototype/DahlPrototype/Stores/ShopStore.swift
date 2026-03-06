@@ -3,6 +3,8 @@ import Foundation
 @Observable
 final class ShopStore {
     var allProducts: [ProductRecommendation] = []
+    var categories: [Category] = []
+    var selectedCategory: Category?
     var cart: [CartItem] = []
     var loadingState: LoadingState = .idle
     var orderPlaced = false
@@ -19,10 +21,16 @@ final class ShopStore {
         cart.reduce(0) { $0 + $1.totalPrice }
     }
 
+    var filteredProducts: [ProductRecommendation] {
+        guard let selected = selectedCategory else { return allProducts }
+        return allProducts.filter { $0.categorySlug == selected.slug }
+    }
+
     func loadProducts() async {
         loadingState = .loading
         do {
             allProducts = try JsonHandler.load("products", as: [ProductRecommendation].self)
+            categories = try JsonHandler.load("categories", as: [Category].self)
             loadingState = .loaded
         } catch {
             loadingState = .failed("Could not load products.")
