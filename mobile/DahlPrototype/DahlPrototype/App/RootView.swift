@@ -1,6 +1,8 @@
 import SwiftUI
 
 struct RootView: View {
+    @State private var shopStore = ShopStore()
+
     var body: some View {
         TabView {
             HomeView()
@@ -20,6 +22,7 @@ struct RootView: View {
                     Label("Assistant", systemImage: "bubble.left.and.bubble.right")
                 }
         }
+        .environment(shopStore)
     }
 }
 

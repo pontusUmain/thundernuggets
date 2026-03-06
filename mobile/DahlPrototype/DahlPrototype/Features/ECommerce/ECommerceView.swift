@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct ECommerceView: View {
-    @State private var store = ShopStore()
+    @Environment(ShopStore.self) private var store
     @State private var searchText = ""
     @State private var showCart = false
 
@@ -56,4 +56,5 @@ struct ECommerceView: View {
 
 #Preview {
     ECommerceView()
+        .environment(ShopStore())
 }
