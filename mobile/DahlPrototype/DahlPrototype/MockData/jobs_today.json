@@ -1,0 +1,78 @@
+[
+  {
+    "id": "job_001",
+    "projectName": "Bergström Bathroom Renovation",
+    "clientAddress": "Storgatan 12, Stockholm",
+    "scheduledStart": "2026-03-06T07:30:00Z",
+    "status": "onTrack",
+    "materials": [
+      {
+        "id": "mat_001",
+        "productName": "22mm Copper Press Fitting",
+        "needed": 8,
+        "ordered": 8,
+        "delivered": true
+      },
+      {
+        "id": "mat_002",
+        "productName": "Isolation Valve 15mm",
+        "needed": 2,
+        "ordered": 2,
+        "delivered": true
+      }
+    ]
+  },
+  {
+    "id": "job_002",
+    "projectName": "Lindqvist Kitchen Refit",
+    "clientAddress": "Vasagatan 44, Stockholm",
+    "scheduledStart": "2026-03-06T11:00:00Z",
+    "status": "missingMaterials",
+    "materials": [
+      {
+        "id": "mat_003",
+        "productName": "Flexible Hose 600mm",
+        "needed": 4,
+        "ordered": 4,
+        "delivered": false
+      },
+      {
+        "id": "mat_004",
+        "productName": "P-trap 32mm",
+        "needed": 2,
+        "ordered": 2,
+        "delivered": true
+      },
+      {
+        "id": "mat_005",
+        "productName": "Sealant Tape 12m",
+        "needed": 1,
+        "ordered": 0,
+        "delivered": false
+      }
+    ]
+  },
+  {
+    "id": "job_003",
+    "projectName": "Eriksson Boiler Install",
+    "clientAddress": "Hornsgatan 7, Stockholm",
+    "scheduledStart": "2026-03-06T14:30:00Z",
+    "status": "unconfirmed",
+    "materials": [
+      {
+        "id": "mat_006",
+        "productName": "Expansion Vessel 18L",
+        "needed": 1,
+        "ordered": 1,
+        "delivered": false
+      },
+      {
+        "id": "mat_007",
+        "productName": "Safety Relief Valve 3 bar",
+        "needed": 1,
+        "ordered": 1,
+        "delivered": false
+      }
+    ]
+  }
+]
