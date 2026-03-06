@@ -1,0 +1,19 @@
+{
+  "text": "This sounds like the jaw profile on your press tool doesn't match the fitting series. The most common cause is using a standard jaw on a fitting that requires a specific profile, like Geberit Mapress or Viega Propress.\n\nFirst, check the marking on the fitting — it should indicate the required jaw type. If the jaw is correct, inspect it for wear; a worn jaw will slip on smaller diameters.\n\nIf you need a replacement jaw set or a compatible fitting, see below.",
+  "products": [
+    {
+      "id": "prod_001",
+      "name": "22mm Press Jaw Set (Mapress)",
+      "sku": "VVS-4421-B",
+      "price": 89000,
+      "currency": "SEK"
+    },
+    {
+      "id": "prod_002",
+      "name": "22mm Copper Press Elbow 90°",
+      "sku": "VVS-2290-C",
+      "price": 4800,
+      "currency": "SEK"
+    }
+  ]
+}
